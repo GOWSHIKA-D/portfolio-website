@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<head>
+<title> PROJECT 1 OF TASK 1</title>
+</head>
+<body background="C:\Users\GOWSHIKA D\Downloads\spinning-background.gif">
+<font color="blue"><center><h1> PERSONAL DETAILS </h1></center>
+<table border="0" width="75%" height="800px" align="center" bgcolor="#2a2c2b"cellpadding="10">
+</font>
+<!--Row1-->
+<tr>
+<td colspan="2">
+<font size="7" face="calibiri" color="red">
+<center> MY PORTFOLIO </center>
+</font> 
+</td>
+</tr>
+
+<!--Row2-->
+<tr>
+<td>
+<p><font size="6" color="white"> Hello,I'm GOWSHIKA D </font>
+<font size="5" color="white"> I'm developer & web designer </font></p>
+<font size="5" color="#ff8a00">
+<p> <b> <u>Educational Criteria</u> </b></p>
+<p><font color="white"> Studying B.Tech., (INFORMATION TECHNOLOGY) </p></font>
+</font>
+
+<font size="5"color="#ff8a00">
+<p><b><u> College details </u></b></p>
+<font color="white">
+<p> Pursing 2nd year Information Technology </p>
+<p> At M.Kumarasamy College of Engineering,Karur</p></font>
+</font>
+
+
+<font size="5"color="#ff8a00">
+<p><b><u>My Skills </u></b></p>
+<p><font color="white"> Web designer & Python Developer</p>
+<p> Certified NPTEL in Foundation of Cloud IOT Edge ML</p></font>
+</font>
+
+<font size="5"color="#ff8a00">
+<p><b><u> Contact details</u></b></p>
+<font color="white">
+<p> Phone No: 9677579600</p>
+<p>Instagram id: gowshika_devaraju._</p>
+<p>LinkedIn: GOWSHIKA D</p></font>
+</font>
+
+
+ </td>
+<td>
+ <img src="C:\Users\GOWSHIKA D\Downloads\gowshikaphoto.jpg""height="300px"> 
+</td>
+</tr>
