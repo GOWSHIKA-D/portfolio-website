@@ -50,6 +50,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - *Email*: [gowshikadevaraju@gmail.com]
 - *GitHub*: [GOWSHIKA - D](https://github.com/GOWSHIKA-D)
-- *LinkedIn*: [GOWSHIKA D(https://www.linkedin.com/in/GOWSHIKA D)
+- *LinkedIn*: [GOWSHIKA D(https://www.linkedin.com/in/gowshika-d-3b2769292/)
 
 Thank you for visiting my portfolio!
