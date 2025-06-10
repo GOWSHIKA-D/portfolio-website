@@ -1,55 +1,84 @@
 <!DOCTYPE html>
+<html>
 <head>
-<title> PROJECT 1 OF TASK 1</title>
+  <title>PROJECT 1 OF TASK 1</title>
 </head>
 <body background="C:\Users\GOWSHIKA D\Downloads\spinning-background.gif">
-<font color="blue"><center><h1> PERSONAL DETAILS </h1></center>
-<table border="0" width="75%" height="800px" align="center" bgcolor="#2a2c2b"cellpadding="10">
-</font>
-<!--Row1-->
-<tr>
-<td colspan="2">
-<font size="7" face="calibiri" color="red">
-<center> MY PORTFOLIO </center>
-</font> 
-</td>
-</tr>
+  <font color="blue">
+    <center><h1>PERSONAL DETAILS</h1></center>
+  </font>
 
-<!--Row2-->
-<tr>
-<td>
-<p><font size="6" color="white"> Hello,I'm GOWSHIKA D </font>
-<font size="5" color="white"> I'm developer & web designer </font></p>
-<font size="5" color="#ff8a00">
-<p> <b> <u>Educational Criteria</u> </b></p>
-<p><font color="white"> Studying B.Tech., (INFORMATION TECHNOLOGY) </p></font>
-</font>
+  <table border="0" width="75%" align="center" bgcolor="#2a2c2b" cellpadding="10">
+    <!-- Top Row with Portfolio title and image -->
+    <tr>
+      <td>
+        <font size="7" face="calibri" color="red">
+          <b>MY PORTFOLIO</b>
+        </font>
+      </td>
+      <td align="right">
+        <img src="C:\Users\GOWSHIKA D\Downloads\gowshikaphoto.jpg" height="200px" style="border-radius: 10px;">
+      </td>
+    </tr>
 
-<font size="5"color="#ff8a00">
-<p><b><u> College details </u></b></p>
-<font color="white">
-<p> Pursing 2nd year Information Technology </p>
-<p> At M.Kumarasamy College of Engineering,Karur</p></font>
-</font>
+    <!-- About Me -->
+    <tr>
+      <td colspan="2">
+        <font size="5" color="#ff8a00"><b><u>About Me</u></b></font>
+        <font color="white" size="5">
+          <p>I am Gowshika D from Namakkal, currently pursuing B.Tech in Information Technology (2nd year) at M. Kumarasamy College of Engineering, Karur.</p>
+          <p>I am a passionate Full Stack Developer who loves building dynamic and responsive web applications.</p>
+          <p>I enjoy learning new technologies and implementing them in real-world projects. I also love participating in technical events and enhancing my skills.</p>
+        </font>
+      </td>
+    </tr>
 
+    <!-- Skills -->
+    <tr>
+      <td colspan="2">
+        <font size="5" color="#ff8a00"><b><u>My Skills</u></b></font>
+        <font color="white" size="5">
+          <p>Proficient in Java, Python, and C programming languages.</p>
+          <p>Completed NPTEL certifications in:</p>
+          <ul>
+            <li>Industry 4.0</li>
+            <li>Introduction to IoT</li>
+            <li>Human Computer Interaction</li>
+            <li>Foundation of Cloud IoT and Edge ML</li>
+          </ul>
+          <p>Presented a paper on <b>"Humanoid Robots"</b> at Kongu College of Engineering.</p>
+          <p>Attended a Data Engineering workshop at Coimbatore Institute of Technology.</p>
+        </font>
+      </td>
+    </tr>
 
-<font size="5"color="#ff8a00">
-<p><b><u>My Skills </u></b></p>
-<p><font color="white"> Web designer & Python Developer</p>
-<p> Certified NPTEL in Foundation of Cloud IOT Edge ML</p></font>
-</font>
+    <!-- Projects -->
+    <tr>
+      <td colspan="2">
+        <font size="5" color="#ff8a00"><b><u>Completed Projects</u></b></font>
+        <font color="white" size="5">
+          <ul>
+            <li>Brain Stroke Prediction</li>
+            <li>Hostel Management System</li>
+            <li>Budget Calculator using Java</li>
+            <li>User Authentication System</li>
+            <li>To-Do List</li>
+          </ul>
+        </font>
+      </td>
+    </tr>
 
-<font size="5"color="#ff8a00">
-<p><b><u> Contact details</u></b></p>
-<font color="white">
-<p> Phone No: 9677579600</p>
-<p>Instagram id: gowshika_devaraju._</p>
-<p>LinkedIn: GOWSHIKA D</p></font>
-</font>
-
-
- </td>
-<td>
- <img src="C:\Users\GOWSHIKA D\Downloads\gowshikaphoto.jpg""height="300px"> 
-</td>
-</tr>
+    <!-- Contact -->
+    <tr>
+      <td colspan="2">
+        <font size="5" color="#ff8a00"><b><u>Contact Details</u></b></font>
+        <font color="white" size="5">
+          <p>Phone No: 9677579600</p>
+          <p>Instagram ID: gowshika_devaraju._</p>
+          <p>LinkedIn: GOWSHIKA D</p>
+        </font>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
